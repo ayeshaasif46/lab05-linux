@@ -1,0 +1,19 @@
+total 76
+drwxr-x--- 12 ayeshaasif46 ayeshaasif46 4096 Oct 16 04:23 .
+drwxr-xr-x  3 root         root         4096 Sep 17 07:16 ..
+-rw-------  1 ayeshaasif46 ayeshaasif46 6695 Oct 16 03:53 .bash_history
+-rw-r--r--  1 ayeshaasif46 ayeshaasif46  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 ayeshaasif46 ayeshaasif46 3771 Feb 13  2026 .bashrc
+drwx------  2 ayeshaasif46 ayeshaasif46 4096 Sep 17 07:33 .cache
+-rw-rw-r--  1 ayeshaasif46 ayeshaasif46  188 Oct 16 04:22 .gitconfig
+drwx------  3 ayeshaasif46 ayeshaasif46 4096 Oct 13 07:00 .local
+-rw-r--r--  1 ayeshaasif46 ayeshaasif46  807 Feb 13  2026 .profile
+drwx------  2 ayeshaasif46 ayeshaasif46 4096 Oct 16 04:19 .ssh
+drwxrwxr-x  3 ayeshaasif46 ayeshaasif46 4096 Oct 13 13:03 Assignment01
+drwxrwxr-x  3 ayeshaasif46 ayeshaasif46 4096 Oct 13 06:22 Assignments
+drwxrwxr-x  3 ayeshaasif46 ayeshaasif46 4096 Oct  9 05:27 CC
+drwxrwxr-x  3 ayeshaasif46 ayeshaasif46 4096 Oct 13 11:38 Gitea
+drwxrwxr-x  5 ayeshaasif46 ayeshaasif46 4096 Oct 16 04:25 lab05-linux
+drwxrwxr-x  2 ayeshaasif46 ayeshaasif46 4096 Sep 18 14:21 mylab
+-rw-rw-r--  1 ayeshaasif46 ayeshaasif46    1 Oct 13 07:01 netcfg.yaml
+drwxrwxr-x  3 ayeshaasif46 ayeshaasif46 4096 Oct 13 15:05 portfolio
